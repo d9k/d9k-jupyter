@@ -1,4 +1,4 @@
-# d9k jupyter notebook
+# d9k Jupyter notebook
 
 [Jupyter notebook](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb) playground of d9k.
 
