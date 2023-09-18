@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "decimal.js": "^10.4.3",
     "lodash": "^4.17.21",
     "promise.any": "^2.0.6"
   }
